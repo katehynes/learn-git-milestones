@@ -275,8 +275,8 @@ Item # | Description | Completed
 1c | Link to markdown tables docs | [link](https://www.markdownguide.org/extended-syntax/)
 1d | What does `log` do? | "Show commit logs"
 2a | 2nd Favorite emoji | :sparkles:
-2b | Link to `commit #2 from Github Desktop' | [commit #2 from Github Desktop] (https://github.com/omundy/learn-git-milestones/commit/26e1772c43e20d0bd52c9aa70123c58de4d1bb74)
-2c | Full path to your working directory | 
+2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop] (https://github.com/omundy/learn-git-milestones/commit/26e1772c43e20d0bd52c9aa70123c58de4d1bb74)
+2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
