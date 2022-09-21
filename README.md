@@ -277,8 +277,8 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji | :sparkles:
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop] (https://github.com/omundy/learn-git-milestones/commit/26e1772c43e20d0bd52c9aa70123c58de4d1bb74)
 2c | Full path to your working directory | /Users/kateehynes/Documents/GitHub/learn-git-milestones
-2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji |
+2d | Link to `commit #3 from CLI` | [commit #3 from CLI] (https://github.com/katehynes/learn-git-milestones/commit/b98e01f97f9e7e289c8cfd92315a5b3aff42b681)
+2e | 3rd Favorite emoji | :woman_running:
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
