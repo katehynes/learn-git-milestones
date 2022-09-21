@@ -279,7 +279,7 @@ Item # | Description | Completed
 2c | Full path to your working directory | /Users/kateehynes/Documents/GitHub/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI] (https://github.com/katehynes/learn-git-milestones/commit/b98e01f97f9e7e289c8cfd92315a5b3aff42b681)
 2e | 3rd Favorite emoji | :woman_running:
-2f | Link to `commit #4 from Atom` |
+2f | Link to `commit #4 from Atom` | [commit #4 from Atom] (https://github.com/omundy/learn-git-milestones/commit/877e735bdf78e26dc8dc32eb093ae567a8743f2a)
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12
