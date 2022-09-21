@@ -281,7 +281,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | :woman_running:
 2f | Link to `commit #4 from Atom` | [commit #4 from Atom] (https://github.com/omundy/learn-git-milestones/commit/877e735bdf78e26dc8dc32eb093ae567a8743f2a)
 3a | Link to `my-awesome-project` github.com repo page | [link to my-awesome-project] (https://github.com/katehynes/my-awesome-project)
-4a | Link to `my-awesome-project` github.io "project site" |
+4a | Link to `my-awesome-project` github.io "project site" | [link to project site] (https://katehynes.github.io/my-awesome-project/)
 ... | ... | Total: 0/12
 
 
